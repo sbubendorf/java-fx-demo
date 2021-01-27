@@ -1,4 +1,4 @@
-package ch.rusi;
+package ch.rusi.examples;
 
 import javafx.application.Application;
 import javafx.application.Platform;
